@@ -20,7 +20,12 @@ const properties = [
   {
     category: 'City Penthouses',
     description: 'High-rise luxury experiences for business and leisure travelers.',
-    image: '/images/interior-bedroom.jpg',
+    image: '/images/penthouse.png',
+  },
+  {
+    category: 'Sea Escapes',
+    description: 'The ultimate coastal escape, blending barefoot relaxation with high-end comfort.',
+    image: '/images/sea-escapes.jpg',
   },
 ];
 
