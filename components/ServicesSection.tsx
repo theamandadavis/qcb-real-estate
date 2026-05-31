@@ -3,39 +3,39 @@ import Image from 'next/image';
 
 const services = [
   {
-    title: 'Airbnb Management',
-    description: 'Full-service STR management for homeowners, investors, vacation property owners, and remote operators.',
-    points: ['Listing management', 'Guest messaging', 'Pricing optimization', 'Booking coordination', 'Maintenance oversight'],
+    title: 'Premier Property Management',
+    description: 'Our staff is dedicated to providing a hands-off, full-service STR management experience for homeowners, investors, vacation property owners, and remote operators — a concierge-level experience so you can focus on your day-to-day living.',
+    points: ['Listing management', 'Guest messaging', 'Pricing optimization', 'Booking coordination', 'Maintenance oversight', 'Cleaning schedules'],
     image: '/images/airbnb.jpg',
   },
   {
-    title: 'Rental Arbitrage',
-    description: 'We identify scalable opportunities in high-demand STR markets, luxury travel destinations, and corporate travel regions.',
-    points: ['Low-risk acquisition strategies', 'High occupancy locations', 'Revenue-focused operations'],
+    title: 'Streamlined Rentals',
+    description: 'Our team identifies scalable opportunities in high-demand STR markets — luxury travel destinations, corporate travel regions, and insurance housing partnerships providing temporary refuge to families displaced by catastrophic events.',
+    points: ['Acquisition strategies', 'High occupancy locations', 'Revenue-focused operations'],
     image: '/images/revenue.jpg',
   },
   {
     title: 'Property Optimization',
-    description: 'We transform properties into premium hospitality experiences that attract discerning guests and command higher rates.',
+    description: 'We transform properties into premium hospitality experiences that attract discerning guests and command the highest expectations from our company, our staff, and our luxury locations.',
     points: ['Interior design guidance', 'Luxury amenity upgrades', 'Smart home integration', 'Guest-experience enhancement'],
     image: '/images/interior-living.jpg',
   },
   {
     title: 'Cleaning Operations',
-    description: 'Hotel-level presentation with fast turnovers, quality assurance inspections, and full restocking systems.',
-    points: ['Hotel-level presentation', 'Fast turnovers', 'QA inspections', 'Restocking systems'],
+    description: 'Our highest priority is to create a safe and clean environment — removing any worry from our guests and ensuring their health is held with the utmost importance while staying in any property we manage.',
+    points: ['Hotel-level presentation', 'Safe, fast & friendly turnovers', 'QA inspections after every stay', 'Restocking systems'],
     image: '/images/cleaning.jpg',
   },
   {
     title: 'Dynamic Pricing',
-    description: 'Market-based pricing systems designed to maximize revenue across occupancy, seasonal rates, and events.',
-    points: ['Occupancy optimization', 'Seasonal rate strategy', 'Event-driven revenue', 'Weekend premiums'],
+    description: 'Market-based pricing systems designed to maximize revenue across occupancy, seasonal rates, and events — spanning short-term, mid-term, corporate, and insurance housing.',
+    points: ['Occupancy optimization / Short-Term Rentals', 'Seasonal rate strategy / Mid-Term Rentals', 'Event-driven & weekend revenue', 'Corporate & executive housing', 'Insurance housing assistance'],
     image: '/images/interior-kitchen.jpg',
   },
   {
     title: 'Investor Partnerships',
     description: 'Strategic co-investment opportunities for partners seeking passive income and scalable STR portfolio growth.',
-    points: ['Passive income opportunities', 'STR market expansion', 'Portfolio scaling', 'Long-term investments'],
+    points: ['Passive income & generational wealth opportunities', 'STR market acquisition & expansion', 'Multi-state portfolio scaling', 'Long-term investments'],
     image: '/images/partnership.jpg',
   },
 ];

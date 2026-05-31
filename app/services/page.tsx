@@ -18,7 +18,7 @@ export default function ServicesPage() {
         </div>
         <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4">Our Services</h1>
         <p className="text-slate-500 text-lg max-w-2xl mx-auto">
-          From Airbnb management to investor partnerships — QCB Global delivers comprehensive STR solutions that maximize revenue and eliminate operational friction.
+          From professional property management to investor partnerships — QCB Global delivers comprehensive STR solutions that maximize revenue and eliminate operational friction.
         </p>
       </div>
 
